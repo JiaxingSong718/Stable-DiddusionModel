@@ -1,0 +1,9 @@
+/checkpoints/*.pt
+/checkpoints/*.pth
+!/checkpoints/
+
+/dataset/data/*
+
+/PDF
+
+/MNIST
